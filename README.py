@@ -1,7 +1,6 @@
 # ranking
-Python code to rank annual ACE
+#Python code to rank annual ACE
 
-Appendix. Python code
 #install packages sudo apt-get install python3-scipy python3-matplotlib
 import os
 os.system('sudo apt-get install python-scipy python-matplotlib python-pandas') 
